@@ -1,0 +1,13 @@
+{
+  "title": "Erfahren Sie den Wert Ihres Autos in nur wenigen Schritten!",
+  "text": "Geben Sie Ihre Fahrzeugdaten ein und erhalten Sie sofort eine Preisprognose für Ihr Auto.",
+  "button": [
+    {
+      "title": "Jetzt bewerten"
+    },
+    {
+      "title": "Mehr erfahren",
+      "color": "#fff"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Präzise Bewertung",
+  "text": "Unsere Bewertungsalgorithmen basieren auf Millionen von Fahrzeugdaten und aktuellen Marktpreisen. Dies ermöglicht eine hochpräzise Preisermittlung für Ihr Fahrzeug.",
+  "section": [
+    {
+      "title": "Datenbasiert",
+      "content": "Analyse von Millionen Fahrzeugdaten",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Aktuell",
+      "content": "Tagesaktuelle Marktpreise",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Präzise",
+      "content": "Berücksichtigung aller Fahrzeugdetails",
+      "icon": "notes.svg"
+    }
+  ]
+}
