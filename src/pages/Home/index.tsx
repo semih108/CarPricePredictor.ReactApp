@@ -29,7 +29,7 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
-        icon="developer.svg"
+        icon={`${process.env.PUBLIC_URL}/img/svg/developer.svg`}
         id="intro"
       />
       <CarValuationForm setIsPredicting={setIsPredicting} setPredictedPrice={setPredictedPrice}/>
@@ -47,21 +47,21 @@ const Home = () => {
         title={AboutContent.title}
         content={AboutContent.text}
         section={AboutContent.section}
-        icon="graphs.svg"
+        icon={`${process.env.PUBLIC_URL}/img/svg/graphs.svg`}
         id="about"
       />
       <ContentBlock
         direction="right"
         title={MissionContent.title}
         content={MissionContent.text}
-        icon="product-launch.svg"
+        icon={`${process.env.PUBLIC_URL}/img/svg/product-launch.svg`}
         id="mission"
       />
       <ContentBlock
         direction="left"
         title={ProductContent.title}
         content={ProductContent.text}
-        icon="waving.svg"
+        icon={`${process.env.PUBLIC_URL}/img/svg/waving.svg`}
         id="product"
       />
       <Contact
