@@ -29,7 +29,7 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
-        icon="img/svg/developer.svg"
+        icon="/img/svg/developer.svg"
         id="intro"
       />
       <CarValuationForm setIsPredicting={setIsPredicting} setPredictedPrice={setPredictedPrice}/>
@@ -47,21 +47,21 @@ const Home = () => {
         title={AboutContent.title}
         content={AboutContent.text}
         section={AboutContent.section}
-        icon="img/svg/graphs.svg"
+        icon="/img/svg/graphs.svg"
         id="about"
       />
       <ContentBlock
         direction="right"
         title={MissionContent.title}
         content={MissionContent.text}
-        icon="img/svg/product-launch.svg"
+        icon="/img/svg/product-launch.svg"
         id="mission"
       />
       <ContentBlock
         direction="left"
         title={ProductContent.title}
         content={ProductContent.text}
-        icon="img/svg/waving.svg"
+        icon="/img/svg/waving.svg"
         id="product"
       />
       <Contact
@@ -72,5 +72,5 @@ const Home = () => {
     </Container>
   );
 };
-
+//test 
 export default Home;
