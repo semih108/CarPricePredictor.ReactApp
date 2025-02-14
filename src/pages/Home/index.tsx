@@ -29,7 +29,7 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
-        icon="/img/svg/developer.svg"
+        icon="developer.svg"
         id="intro"
       />
       <CarValuationForm setIsPredicting={setIsPredicting} setPredictedPrice={setPredictedPrice}/>
