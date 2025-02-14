@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CarPricePredictor.ReactApp/static/css/main.18dfb25f.css",
-    "main.js": "/CarPricePredictor.ReactApp/static/js/main.48c38f7e.js",
-    "static/js/612.4ba7d97c.chunk.js": "/CarPricePredictor.ReactApp/static/js/612.4ba7d97c.chunk.js",
+    "main.js": "/CarPricePredictor.ReactApp/static/js/main.9de364f8.js",
+    "static/js/612.d35493b7.chunk.js": "/CarPricePredictor.ReactApp/static/js/612.d35493b7.chunk.js",
     "static/js/609.0b8aaab1.chunk.js": "/CarPricePredictor.ReactApp/static/js/609.0b8aaab1.chunk.js",
     "static/js/281.b80c5429.chunk.js": "/CarPricePredictor.ReactApp/static/js/281.b80c5429.chunk.js",
     "static/js/722.0c7c2a56.chunk.js": "/CarPricePredictor.ReactApp/static/js/722.0c7c2a56.chunk.js",
@@ -13,8 +13,8 @@
     "static/js/691.d7e1f965.chunk.js": "/CarPricePredictor.ReactApp/static/js/691.d7e1f965.chunk.js",
     "index.html": "/CarPricePredictor.ReactApp/index.html",
     "main.18dfb25f.css.map": "/CarPricePredictor.ReactApp/static/css/main.18dfb25f.css.map",
-    "main.48c38f7e.js.map": "/CarPricePredictor.ReactApp/static/js/main.48c38f7e.js.map",
-    "612.4ba7d97c.chunk.js.map": "/CarPricePredictor.ReactApp/static/js/612.4ba7d97c.chunk.js.map",
+    "main.9de364f8.js.map": "/CarPricePredictor.ReactApp/static/js/main.9de364f8.js.map",
+    "612.d35493b7.chunk.js.map": "/CarPricePredictor.ReactApp/static/js/612.d35493b7.chunk.js.map",
     "609.0b8aaab1.chunk.js.map": "/CarPricePredictor.ReactApp/static/js/609.0b8aaab1.chunk.js.map",
     "281.b80c5429.chunk.js.map": "/CarPricePredictor.ReactApp/static/js/281.b80c5429.chunk.js.map",
     "722.0c7c2a56.chunk.js.map": "/CarPricePredictor.ReactApp/static/js/722.0c7c2a56.chunk.js.map",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.18dfb25f.css",
-    "static/js/main.48c38f7e.js"
+    "static/js/main.9de364f8.js"
   ]
 }
