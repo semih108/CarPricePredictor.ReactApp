@@ -1,5 +1,14 @@
 import styled from "styled-components";
 
+export const Label = styled("label")`
+  display: block;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #18216d;
+  margin-bottom: 0.5rem;
+`;
+
+
 export const ContactContainer = styled("div")`
   padding: 5rem 0;
   background: #f6f6f6;
